@@ -2,6 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/should-be-same-as-headline/index.html",
+      "/posts/centurions-are-the-best-team-ever/index.html",
       "/posts/introduction/index.html"
     ]
   }
